@@ -19,7 +19,7 @@ Aplicação em Python com menu interativo que permite:
 - Tratamento de erros (try/except)
 - Estrutura de decisão (match case)
 
-📁 Arquivo: `programa_de_cadastro.py`
+📁 Arquivo: `Sistema_de_Cadastro.py`
 
 ---
 
@@ -37,7 +37,7 @@ Sistema interativo para manipulação de listas, permitindo:
 - Manipulação de dados
 - Validação de entrada
 
-📁 Arquivo: `gerenciador_nomes.py`
+📁 Arquivo: `Gerenciador_de_Lista_de_Nomes.py`
 
 ---
 
@@ -56,7 +56,7 @@ Aplicação que realiza conversão de valores em dólar para real.
 - Entrada e saída de dados
 - Tratamento de erros
 
-📁 Arquivo: `conversor_moeda.py`
+📁 Arquivo: `Conversor_de_Moeda.py`
 
 ---
 
